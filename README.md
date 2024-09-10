@@ -1,1 +1,1 @@
-# AL-based-MPPT-under-partial-shading-
+# AI-based-MPPT-under-partial-shading-
